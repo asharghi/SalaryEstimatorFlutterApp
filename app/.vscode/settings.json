@@ -1,0 +1,64 @@
+{
+	"nativescript.analytics.enabled": false,
+	"explorer.confirmDelete": false,
+	"vetur.validation.template": false,
+	"git.enableSmartCommit": true,
+	"git.autofetch": true,
+	"typescript.updateImportsOnFileMove.enabled": "always",
+	"explorer.confirmDragAndDrop": false,
+	"sqltools.useNodeRuntime": true,
+	"diffEditor.ignoreTrimWhitespace": false,
+	"javascript.updateImportsOnFileMove.enabled": "always",
+	"workbench.iconTheme": "vscode-icons",
+	"gitlens.gitCommands.closeOnFocusOut": true,
+	"[javascript]": {
+		"editor.formatOnSave": false,
+	},
+	"[typescript]": {
+		"editor.formatOnSave": false,
+	},
+	"editor.codeActionsOnSave": {
+		"source.fixAll": true
+	},
+	"eslint.validate": [
+		"javascript",
+		"typescript",
+		"vue"
+	],
+	"editor.insertSpaces": false,
+	"workbench.welcomePage.hiddenCategories": [
+		"Setup",
+		"Beginner"
+	],
+	"security.workspace.trust.untrustedFiles": "open",
+	"eslint.format.enable": true,
+	"git.confirmSync": false,
+	"eslint.probe": [
+		"javascript",
+		"javascriptreact",
+		"typescript",
+		"typescriptreact",
+		"html",
+		"vue",
+		"markdown",
+		"js"
+	],
+	"editor.formatOnSave": true,
+	"diffEditor.wordWrap": "off",
+	"window.zoomLevel": -1,
+	"editor.scrollBeyondLastLine": false,
+	"gitlens.views.remotes.branches.layout": "list",
+	"editor.inlineSuggest.enabled": true,
+	"[dart]": {
+		"editor.formatOnSave": true,
+		"editor.formatOnType": true,
+		"editor.rulers": [
+			80
+		],
+		"editor.selectionHighlight": false,
+		"editor.suggest.snippetsPreventQuickSuggestions": false,
+		"editor.suggestSelection": "first",
+		"editor.tabCompletion": "onlySnippets",
+		"editor.wordBasedSuggestions": false
+	}
+}
